@@ -1,0 +1,15 @@
+body {
+    font-family: Courier New;
+    background-color: lightskyblue;
+    text-align: center;
+  }
+  
+.background{
+    background-color: whitesmoke;
+    border-radius: 3%;
+    width:500px;
+    height:700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:20px;
+}
